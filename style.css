@@ -5,6 +5,7 @@
 html {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 body {
@@ -194,7 +195,9 @@ body {
 
 .player-info {
   padding-top: 70px;
+  margin-bottom: 70px;
   height: 100vh;
+  
 }
 
 .new-badge {
